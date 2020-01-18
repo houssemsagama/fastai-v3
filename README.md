@@ -1,7 +1,8 @@
-# Starter for deploying [fast.ai](https://www.fast.ai) models on [Render](https://render.com)
+# **NLP: twitter sentiment analysis**
 
-This repo can be used as a starting point to deploy [fast.ai](https://github.com/fastai/fastai) models on Render.
+`Natural language processing is one of the important field of IA, which concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data. One of the application of NLP is sentiment analysis where we try to predict the polarity of a text –
+positive/negative or neutral. Usually, sentiment analysis algorithms work well on considerable length of text. That's why through this project we are to test the efficiency of these alghorithms on short input sush as the tweet dataset, 
 
-The sample app described here is up at https://fastai-v3.onrender.com. Test it out with bear images!
+---
 
-The guide for production deployment to Render is at https://course.fast.ai/deployment_render.html.
+available on  http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip.`
